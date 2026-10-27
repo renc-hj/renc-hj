@@ -32,10 +32,6 @@ A reproducible machine-learning pipeline for multi-label toxicity prediction, un
 
 [Project website](https://tox21-error-risk-signals.vercel.app/) · [Interactive presentation](https://renc-hj.github.io/tox21-error-risk-signals-submission/) · [Source code](https://github.com/renc-hj/tox21-error-risk-signals-submission)
 
-## Current interests
-
-Applied machine learning, statistical modeling, uncertainty estimation, responsible model evaluation, and reproducible data science.
-
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/hjrenachoi) · [Email](mailto:hjrenachoi@gmail.com)
+I’m always happy to connect about data science, applied machine learning, or analytics opportunities. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/hjrenachoi) or [email](mailto:hjrenachoi@gmail.com).
